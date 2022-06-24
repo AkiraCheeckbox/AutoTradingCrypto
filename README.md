@@ -6,7 +6,7 @@ This is a python application to buy and sell your crypto currency.
 
 ## Installation
 
-Install my-project with npm
+Install All Package wit pip
 
 ```bash
   pip install -r requirements.txt
