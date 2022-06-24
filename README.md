@@ -4,6 +4,15 @@ This is a python application to buy and sell your crypto currency.
 
 
 
+## Installation
+
+Install my-project with npm
+
+```bash
+  pip install -r requirements.txt
+```
+    
+
 ## Reference 
 
  - [Whimisical Project for Understanding Structure](https://whimsical.com/94EUxUxkvX9uy4VqsUfgDN)
