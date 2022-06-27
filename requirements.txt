@@ -1,0 +1,8 @@
+bybit
+pybit
+python-dotenv
+pandas
+ccxt
+matplotlib
+jupyter
+numpy
